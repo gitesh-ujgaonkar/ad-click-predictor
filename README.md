@@ -17,7 +17,7 @@ Performance: 0.7473 AUC on a 200,000-row test set.
 🚀 How to Use This Model
 You can run this entire project in just a few clicks using Google Colab.
 
-Open the Colab Notebook:
+Open the Colab Notebook: [Click to Open](https://colab.research.google.com/drive/175QzP01NZ9dUnKsYJqb2cmTpD0ZWwG4-?usp=sharing)
 
 Save Your Own Copy: In the Colab notebook, go to File > Save a copy in Drive. This will create your own editable version.
 
